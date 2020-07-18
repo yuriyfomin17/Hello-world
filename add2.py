@@ -1,1 +1,1 @@
-c = 7 + 7
+print('Yuriy can use git')
